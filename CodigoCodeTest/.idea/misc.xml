@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/drawable-v24/bg_rating_text.xml" value="0.1388888888888889" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/drawable-v24/ic_back.xml" value="0.1388888888888889" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/drawable-v24/ic_rating.xml" value="0.1388888888888889" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/item_movie.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/item_network_state.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/item_upcoming_movies.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/layout_movie_detail.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/layout_toolbar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CodigoCodeTest/app/src/main/res/layout/view_base_progress.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
